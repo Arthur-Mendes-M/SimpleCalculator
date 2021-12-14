@@ -1,7 +1,7 @@
 # SimpleCalculator
 
 
-<img src="img/simpleCalculaterDesktop.gif"/>
+<img src="img/simpleCalculatorDesktop.gif" alt="Gif demonstrativo da aplicação"/>
 
 Esta é uma calculadora simples, que utiliza de gradientes, animações suaves e um design moderno utilizando glassmorphism!
 
